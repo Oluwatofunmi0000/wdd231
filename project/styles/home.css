@@ -158,7 +158,7 @@ nav a:hover {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url(images/restaurant-hero.jpg);
+    background-image: url("..images/restaurant-hero.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
